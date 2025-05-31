@@ -18,7 +18,7 @@ Event-Driven Architecture: Sends verification emails through SendGrid by leverag
 
 ## Architecture Diagram
 
-![Architecture Diagram](webapp-main/arc.png)
+![Architecture Diagram](https://raw.githubusercontent.com/Ronakmishra/infra/main/webapp-main/arch.png)
 
 ## Installation and Running the Application
 
